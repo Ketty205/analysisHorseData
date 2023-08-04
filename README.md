@@ -15,4 +15,4 @@ Prilikom ucitavanja podatak dobijena je kolona "", ona zapravo predstavlja redni
 SQLQuery3 sadryi sql upite; procedure koje su u komentarima pa ih je potrebno prvo odkomentarisati(skloniti znak /**/) i pokrenuti; trigeri koji su takodje u komentarima.
 Ovako organizovan file je pruzio mogucnost da se sve stavi na jedno mesto, kako bi se izbeglo kreiranje posebnih fajlova za svaku proceduru.
 
-Tabelau- je upotrebljen za vizuelizaciju SQL upita i procedura; grafici su sacuvani kao image 1-6. Dobijeni grafikoni su stavljeni u GoogleSlides, sacuvani u folderu: Vizuelna reprezentacija rezultat SQL-a, kao pdf u kojem se nalazi objasnjenje dobijenih rezultat ispod svakog grafika
+Tabelau- je upotrebljen za vizuelizaciju SQL upita i procedura; grafici su sacuvani kao image 1-6. Dobijeni grafikoni su stavljeni u GoogleSlides, sacuvani u folderu: Vizuelna reprezentacija rezultat SQL-a, kao pdf u kojem se nalazi objasnjenje dobijenih rezultata ispod svakog grafika.
